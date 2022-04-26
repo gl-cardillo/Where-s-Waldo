@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Where-s-Waldo/static/css/main.a8e47049.css",
-    "main.js": "/Where-s-Waldo/static/js/main.804b4e87.js",
+    "main.js": "/Where-s-Waldo/static/js/main.fdd19d3a.js",
     "static/js/787.051d59f4.chunk.js": "/Where-s-Waldo/static/js/787.051d59f4.chunk.js",
     "static/media/egor-klyuchnyk-1.2.jpg": "/Where-s-Waldo/static/media/egor-klyuchnyk-1.2.314cec99f414807b7e27.jpg",
     "static/media/link.png": "/Where-s-Waldo/static/media/link.160d9b740e7d73d0a8b4.png",
@@ -9,11 +9,11 @@
     "static/media/Stewie.webp": "/Where-s-Waldo/static/media/Stewie.77d0d1eacac1fb22622c.webp",
     "index.html": "/Where-s-Waldo/index.html",
     "main.a8e47049.css.map": "/Where-s-Waldo/static/css/main.a8e47049.css.map",
-    "main.804b4e87.js.map": "/Where-s-Waldo/static/js/main.804b4e87.js.map",
+    "main.fdd19d3a.js.map": "/Where-s-Waldo/static/js/main.fdd19d3a.js.map",
     "787.051d59f4.chunk.js.map": "/Where-s-Waldo/static/js/787.051d59f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8e47049.css",
-    "static/js/main.804b4e87.js"
+    "static/js/main.fdd19d3a.js"
   ]
 }
